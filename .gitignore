@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+*.pyc
+*.log
+*.out
+.idea/
+__pycache__/
+venv/
+logs/
+configs/ftx_trader.cfg_julian
+configs/ftx_trader.cfg_micz
+configs/ftx_trader.cfg_test
+ngrok
